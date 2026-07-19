@@ -12,21 +12,42 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript/TypeScript
+- JavaScript
 - Python
-- Java
-- SQL
+- MySQL
+- HTML,CSS
+- XML
 
 ### Frameworks & Tools
-- React
+- Visual Studio
 - Node.js
-- Git
-- Docker
+- GitHub
+- MySql Workbench
+- PowerBI
+- google colab
+- AI assist(Chatgpt,Gemini,Claude,etc.)
+- epsilon
+- adobe acrobot professional
+- abby finereader
+- Microsoft word
+- Microsoft Excel
+- adobe photoshop
+- adobe illustrator
+- adobe premiere pro
+- abode after effects 
 
 ### Specializations
-- Full-stack Development
-- Web Applications
-- API Development
+- full stack development 
+- web designing
+- graphic designing
+- video editing
+- xml development
+- pdf accessibility
+- problem solving
+- good communication,teamwork
+- Adaptability
+- network surfing
+- Multiligual Ability-(Tamil,English)
 
 ## 📊 GitHub Statistics
 
@@ -36,7 +57,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 🎓 Notable Projects
 
-- **Project Name 1** - Brief description of your project
+- **BloomKart** - Brief description of your project
   - [Repository Link](https://github.com/hanishvinoth6-ship-it/project-name)
   - Key features and technologies used
 
@@ -46,13 +67,13 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 💡 Current Focus
 
-- Exploring [Topic/Technology]
+- Exploring New things 
 - Contributing to open-source projects
 - Building projects that solve real-world problems
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.email@example.com
+- 📧 Email: hanishvinoth6@gmail.com
 - 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
@@ -63,11 +84,10 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 🎉 Fun Facts
 
-- 🎮 I enjoy [hobby/interest]
+- 🎮 I enjoy pencil sketching, content editing, listening to music, Mime, script writting,etc.
 - ☕ Coffee enthusiast
 - 🌍 Open to remote opportunities
 
----
 
 <div align="center">
 
