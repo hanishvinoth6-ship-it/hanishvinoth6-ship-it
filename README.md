@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - Python
 - MySQL
 - HTML,CSS
-- XML
+- C++
 
 ### Frameworks & Tools
 - Visual Studio
