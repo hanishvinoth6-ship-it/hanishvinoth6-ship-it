@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - MySql Workbench
 - PowerBI
 - google colab
+- google lab
 - AI assist(Chatgpt,Gemini,Claude,etc.)
 - epsilon
 - adobe acrobot professional
