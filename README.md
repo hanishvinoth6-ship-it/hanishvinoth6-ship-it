@@ -50,12 +50,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - network surfing
 - Multiligual Ability-(Tamil,English)
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanishvinoth6-ship-it&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanishvinoth6-ship-it&layout=compact&theme=dark)
-
 ## 🎓 Notable Projects
 
 - **BloomKart** - Brief description of your project
@@ -75,8 +69,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 📫 Let's Connect
 
 - 📧 Email: hanishvinoth6@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/hanish-vinoth-41958836a).
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ## 📝 Latest Blog Posts
